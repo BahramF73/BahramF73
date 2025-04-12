@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Bahram Farahmand 🙋‍♂️
+
+I'm a passionate software developer with a strong focus on open-source contributions. I love creating and collaborating on projects that make a real-world impact. Here's a little more about me:
+
+## 👨‍💻 Skills
+- JavaScript, Node.js
+- Python, Pandas, Seaborn,	Plotly,	Bokeh, Selenium and Seleniumbase
+
+## 💬 Get in touch with me!
+- [LinkedIn](https://www.linkedin.com/in/bahram-farahmand/)
+
+## 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BahramF73&show_icons=true&hide_title=true)
 
 <!--
 **BahramF73/BahramF73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
