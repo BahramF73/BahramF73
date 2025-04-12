@@ -3,8 +3,9 @@
 I'm a passionate software developer with a strong focus on open-source contributions. I love creating and collaborating on projects that make a real-world impact. Here's a little more about me:
 
 ## 👨‍💻 Skills
-- JavaScript, Node.js
-- Python, Pandas, Seaborn,	Plotly,	Bokeh, Selenium and Seleniumbase
+- **JavaScript**: Node.js
+- **Python**: Pandas, Seaborn, Plotly, Bokeh, Selenium, and SeleniumBase
+- **Java**: Android Development
 
 ## 💬 Get in touch with me!
 - [LinkedIn](https://www.linkedin.com/in/bahram-farahmand/)
