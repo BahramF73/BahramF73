@@ -12,7 +12,7 @@ I'm a passionate software developer with a strong focus on open-source contribut
 
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://vercel.com/bahrams-projects-3a5d18fe/github-readme-stats/api?username=BahramF73&show_icons=true&hide_title=true)
+![My GitHub Stats](https://github-readme-stats-black-ten-50.vercel.app/api?username=BahramF73&show_icons=true&hide_title=true)
 <!--
 **BahramF73/BahramF73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
