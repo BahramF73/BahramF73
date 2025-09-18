@@ -10,10 +10,10 @@ I'm a passionate software developer with a strong focus on open-source contribut
 ## 💬 Get in touch with me!
 - [LinkedIn](https://www.linkedin.com/in/bahram-farahmand/)
 
-<!--
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BahramF73&show_icons=true&hide_title=true)
 
+## 📈 GitHub Stats
+![My GitHub Stats](https://github.com/BahramF73/github-readme-stats/api?username=BahramF73&show_icons=true&hide_title=true)
+<!--
 **BahramF73/BahramF73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
