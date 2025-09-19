@@ -6,6 +6,7 @@ I'm a passionate software developer with a strong focus on open-source contribut
 - **JavaScript**: Node.js
 - **Python**: Pandas, Seaborn, Plotly, Bokeh, Selenium, and SeleniumBase
 - **Java**: Android Development
+- **Cloud & DevOps**: AWS (EC2, S3, IAM), GitHub Actions, Docker
 
 ## 💬 Get in touch with me!
 - [LinkedIn](https://www.linkedin.com/in/bahram-farahmand/)
